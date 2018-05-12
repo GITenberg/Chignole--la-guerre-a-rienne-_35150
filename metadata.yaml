@@ -1,0 +1,28 @@
+_repo: Chignole--la-guerre-a-rienne-_35150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nadaud, Marcel
+    birthdate: 1889
+    gutenberg_agent_id: '37496'
+    url: http://www.gutenberg.org/2009/agents/37496
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2011-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35150'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918'
+title: Chignole (la guerre aérienne)
+url: http://www.gutenberg.org/ebooks/35150
