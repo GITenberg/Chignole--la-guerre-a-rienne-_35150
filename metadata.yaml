@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37496'
     url: http://www.gutenberg.org/2009/agents/37496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35150#Chignole--la-guerre-a-rienne-
 gutenberg_bookshelf:
 - FR Littérature
 - FR La Première Guerre Mondiale, 1914-1918
